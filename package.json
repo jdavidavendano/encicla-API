@@ -1,0 +1,19 @@
+{
+  "name": "encicla-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdavidavendano/encicla-API.git"
+  },
+  "author": "JDavidAvendano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdavidavendano/encicla-API/issues"
+  },
+  "homepage": "https://github.com/jdavidavendano/encicla-API#readme"
+}
